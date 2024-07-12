@@ -5,11 +5,14 @@
   "main": "course.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "lite-server",
     "start-database": "json-server --watch users-db.json"
   },
   "dependencies": {
     "json-server": "0.17.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   },
   "keywords": [],
   "author": "Ana",
