@@ -1,0 +1,17 @@
+{
+  "name": "tech-interview",
+  "version": "1.0.0",
+  "description": "### Before you start the assignment After you create your own private repository, git clone this project and **send me an invitation**.",
+  "main": "course.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "start-database": "json-server --watch users-db.json"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  },
+  "keywords": [],
+  "author": "Ana",
+  "license": "ISC"
+}

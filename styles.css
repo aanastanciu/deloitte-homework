@@ -1,0 +1,28 @@
+.logo {
+    max-height: 50px;
+}
+
+.table-view .user-card {
+    flex: 1 1 100%;
+    display: flex;
+}
+
+.table-view .user-card .card {
+    width: 100%;
+}
+
+.card-view .user-card {
+    flex: 1 1 25%;
+}
+
+@media (max-width: 992px) {
+    .card-view .user-card {
+        flex: 1 1 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .card-view .user-card {
+        flex: 1 1 100%;
+    }
+}

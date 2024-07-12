@@ -1,0 +1,310 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "age": 26,
+      "gender": "Male",
+      "email": "johndoe@example.com",
+      "phone": "555-123-4567",
+      "username": "johndoe",
+      "birthdate": "1996-05-12",
+      "height": "6'0\"",
+      "weight": 170,
+      "education": "Bachelor's Degree in Computer Science",
+      "company": {
+        "name": "ABC Inc.",
+        "position": "Software Engineer",
+        "salary": 75000,
+        "start_date": "2018-06-01"
+      }
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Doe",
+      "age": 24,
+      "gender": "Female",
+      "email": "janedoe@example.com",
+      "phone": "555-987-6543",
+      "username": "janedoe",
+      "birthdate": "1998-02-22",
+      "height": "5'5\"",
+      "weight": 130,
+      "education": "Master's Degree in Business Administration",
+      "company": {
+        "name": "XYZ Corp.",
+        "position": "Marketing Manager",
+        "salary": 85000,
+        "start_date": "2019-01-01"
+      }
+    },
+    {
+      "id": "3",
+      "first_name": "James",
+      "last_name": "Smith",
+      "age": 31,
+      "gender": "Male",
+      "email": "jamessmith@example.com",
+      "phone": "555-555-5555",
+      "username": "jamessmith",
+      "birthdate": "1991-11-11",
+      "height": "5'10\"",
+      "weight": 180,
+      "education": "Bachelor's Degree in Electrical Engineering",
+      "company": {
+        "name": "DEF Corp.",
+        "position": "Electrical Engineer",
+        "salary": 80000,
+        "start_date": "2017-05-01"
+      }
+    },
+    {
+      "id": "4",
+      "first_name": "Emily",
+      "last_name": "Johnson",
+      "age": 28,
+      "gender": "Female",
+      "email": "emilyjohnson@example.com",
+      "phone": "555-456-7890",
+      "username": "emilyjohnson",
+      "birthdate": "1994-08-15",
+      "height": "5'6\"",
+      "weight": 135,
+      "education": "Bachelor's Degree in Journalism",
+      "company": {
+        "name": "GHI Inc.",
+        "position": "Journalist",
+        "salary": 60000,
+        "start_date": "2016-01-01"
+      }
+    },
+    {
+      "id": "5",
+      "first_name": "Sophia",
+      "last_name": "Nguyen",
+      "age": 28,
+      "gender": "Female",
+      "email": "sophia.nguyen@example.com",
+      "phone": "555-555-5555",
+      "username": "sophia.nguyen",
+      "birthdate": "1994-05-22",
+      "height": "5'4\"",
+      "weight": 120,
+      "education": "Bachelor's Degree in Computer Science",
+      "company": {
+        "name": "Tech Innovations",
+        "position": "Software Engineer",
+        "salary": 80000,
+        "start_date": "2018-07-01"
+      }
+    },
+    {
+      "id": "6",
+      "first_name": "Olivia",
+      "last_name": "Lee",
+      "age": 29,
+      "gender": "Female",
+      "email": "olivialeefitness@example.com",
+      "phone": "555-444-7777",
+      "username": "olivialeefitness",
+      "birthdate": "1993-09-19",
+      "height": "5'7\"",
+      "weight": 130,
+      "education": "Bachelor's Degree in Kinesiology",
+      "company": {
+        "name": "Fitness Connection",
+        "position": "Personal Trainer",
+        "salary": 45000,
+        "start_date": "2019-01-01"
+      }
+    },
+    {
+      "id": "7",
+      "first_name": "Jacob",
+      "last_name": "Garcia",
+      "age": 33,
+      "gender": "Male",
+      "email": "jacobgarcia@example.com",
+      "phone": "555-777-4444",
+      "username": "jacobgarcia",
+      "birthdate": "1989-11-27",
+      "height": "5'9\"",
+      "weight": 160,
+      "education": "Associate's Degree in Culinary Arts",
+      "company": {
+        "name": "The Olive Tree",
+        "position": "Head Chef",
+        "salary": 65000,
+        "start_date": "2015-06-01"
+      }
+    },
+    {
+      "id": "8",
+      "first_name": "Ava",
+      "last_name": "Martinez",
+      "age": 27,
+      "gender": "Female",
+      "email": "avamartinez@example.com",
+      "phone": "555-222-9999",
+      "username": "avamartinez",
+      "birthdate": "1995-04-03",
+      "height": "5'6\"",
+      "weight": 120,
+      "education": "Bachelor's Degree in Marketing",
+      "company": {
+        "name": "Global Enterprises",
+        "position": "Marketing Coordinator",
+        "salary": 55000,
+        "start_date": "2018-01-01"
+      }
+    },
+    {
+      "id": "9",
+      "first_name": "Ethan",
+      "last_name": "Rivera",
+      "age": 30,
+      "gender": "Male",
+      "email": "ethanrivera@example.com",
+      "phone": "555-888-5555",
+      "username": "ethanrivera",
+      "birthdate": "1992-12-12",
+      "height": "6'1\"",
+      "weight": 190,
+      "education": "Master's Degree in Mechanical Engineering",
+      "company": {
+        "name": "Acme Corp.",
+        "position": "Mechanical Engineer",
+        "salary": 90000,
+        "start_date": "2016-06-01"
+      }
+    },
+    {
+      "id": "10",
+      "first_name": "Hannah",
+      "last_name": "Wilson",
+      "age": 25,
+      "gender": "Female",
+      "email": "hannah.wilson@example.com",
+      "phone": "555-111-2222",
+      "username": "hannah.wilson",
+      "birthdate": "1997-08-10",
+      "height": "5'6\"",
+      "weight": 125,
+      "education": "Bachelor's Degree in Psychology",
+      "company": {
+        "name": "Therapy Works",
+        "position": "Licensed Psychologist",
+        "salary": 70000,
+        "start_date": "2020-01-01"
+      }
+    },
+    {
+      "id": "11",
+      "first_name": "David",
+      "last_name": "Kim",
+      "age": 32,
+      "gender": "Male",
+      "email": "davidkim@example.com",
+      "phone": "555-333-6666",
+      "username": "davidkim",
+      "birthdate": "1990-03-15",
+      "height": "5'10\"",
+      "weight": 175,
+      "education": "Bachelor's Degree in Business Administration",
+      "company": {
+        "name": "ABC Corporation",
+        "position": "Financial Analyst",
+        "salary": 75000,
+        "start_date": "2018-01-01"
+      }
+    },
+    {
+      "id": "12",
+      "first_name": "Aiden",
+      "last_name": "Hernandez",
+      "age": 27,
+      "gender": "Male",
+      "email": "aidenhernandez@example.com",
+      "phone": "555-444-1111",
+      "username": "aidenhernandez",
+      "birthdate": "1995-12-28",
+      "height": "5'9\"",
+      "weight": 165,
+      "education": "Associate's Degree in Electrical Engineering",
+      "company": {
+        "name": "Green Energy Solutions",
+        "position": "Electrical Engineer",
+        "salary": 85000,
+        "start_date": "2020-05-01"
+      }
+    },
+    {
+      "id": "13",
+      "first_name": "Emma",
+      "last_name": "Gonzalez",
+      "age": 24,
+      "gender": "Female",
+      "email": "emmagonzalez@example.com",
+      "phone": "555-666-3333",
+      "username": "emmagonzalez",
+      "birthdate": "1998-02-17",
+      "height": "5'5\"",
+      "weight": 120,
+      "education": "Bachelor's Degree in Fine Arts",
+      "company": {
+        "name": "Artistic Impressions",
+        "position": "Graphic Designer",
+        "salary": 55000,
+        "start_date": "2021-01-01"
+      }
+    },
+    {
+      "id": "14",
+      "first_name": "Max",
+      "last_name": "Garcia",
+      "age": 31,
+      "gender": "Male",
+      "email": "maxgarcia@example.com",
+      "phone": "555-777-4444",
+      "username": "maxgarcia",
+      "birthdate": "1991-11-03",
+      "height": "6'0\"",
+      "weight": 190,
+      "education": "Master's Degree in Computer Science",
+      "company": {
+        "name": "Tech Solutions Inc.",
+        "position": "Lead Software Developer",
+        "salary": 120000,
+        "start_date": "2017-01-01"
+      }
+    },
+    {
+      "id": "15",
+      "first_name": "Grace",
+      "last_name": "Lee",
+      "age": 29,
+      "gender": "Female",
+      "email": "gracelee@example.com",
+      "phone": "555-888-2222",
+      "username": "gracelee",
+      "birthdate": "1993-05-12",
+      "height": "5'4\"",
+      "weight": 120,
+      "education": "Master's Degree in Education",
+      "company": {
+        "name": "ABC School District",
+        "position": "High School Teacher",
+        "salary": 65000,
+        "start_date": "2019-08-15"
+      }
+    },
+    {
+      "first_name": "Ana",
+      "last_name": "Stanciu",
+      "email": "a.anastanciu@gmail.com",
+      "id": "cDYFF1U"
+    }
+  ]
+}
